@@ -1,3 +1,4 @@
 test
 1st line
-demo trivial merger in master
+demo non-trivial merger in feature2 
+demo
